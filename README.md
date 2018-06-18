@@ -1,6 +1,6 @@
 # kafka-bootstrap-docker
 
-If you want to run Kafka on you local dev environment using docker or vagrant this project is for you! Welcome!
+If you want to run Kafka in you local dev environment using docker or vagrant this project is for you! Welcome!
 
 You can build the image from the Dockerfile supplied. It creates Kafka and Zookeeper in a single container.
 
